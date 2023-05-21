@@ -12,10 +12,10 @@
 - *Required Dependencies* `None`
 
 # Commands & Usages
-- `vanish` 
-- `fly`
-- `creative`
-- `survival`
-- `adventure`
-- `spectator`
+- `/vanish` 
+- `/fly`
+- `/creative`
+- `/survival`
+- `/adventure`
+- `/spectator`
 - *More Features & Commands coming soon*
