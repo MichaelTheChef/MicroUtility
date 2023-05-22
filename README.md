@@ -1,5 +1,5 @@
 # MicroUtility
-`Version 1.0` Server Core like utility plugin to help in server management basics 
+`Version 1.1` Server Core like utility plugin to help in server management basics 
 
 # Setup Guide
 - Open your server 'plugins' folder and drag and insert the jar.
