@@ -1,0 +1,38 @@
+name: MicroUtility
+version: '${project.version}'
+main: me.mio.microutility.MicroUtility
+api-version: 1.17
+commands:
+  vanish:
+    permission: mutil.vanish
+    aliases:
+      - v
+  fly:
+    permission: mutil.fly
+    aliases:
+      - flight
+  creative:
+    permission: mutil.creative
+    aliases:
+      - c
+      - gmc
+
+  survival:
+    permission: mutil.survival
+    aliases:
+      - s
+      - gms
+
+  spectator:
+    permission: mutil.spectator
+    aliases:
+      - sp
+      - gmsp
+
+  adventure:
+    permission: mutil.adventure
+    aliases:
+      - a
+      - gma
+
+
